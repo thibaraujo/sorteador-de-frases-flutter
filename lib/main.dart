@@ -71,6 +71,7 @@ class _HomeStateFulState extends State<HomeStateFul> {
                                 fontSize: 20,
                                 color: Colors.black,
                             ),
+                            textAlign: TextAlign.center,
                         ),
                         TextButton(
                             onPressed: (){
