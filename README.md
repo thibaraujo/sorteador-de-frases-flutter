@@ -1,16 +1,25 @@
-# gerador_frases
+# Sorteador de Frases em Flutter
 
-A new Flutter project.
+Um projeto básico em Flutter para praticar conceitos iniciais de desenvolvimento em Dart e Flutter.
 
-## Getting Started
+## Sobre o Projeto
 
-This project is a starting point for a Flutter application.
+Este projeto foi desenvolvido como uma introdução ao Flutter, permitindo explorar funcionalidades básicas como:
 
-A few resources to get you started if this is your first Flutter project:
+- Estruturação de widgets.
+- Gerenciamento de estado simples.
+- Criação de interfaces interativas.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+É uma ótima oportunidade para quem está começando a aprender Flutter e deseja se familiarizar com a linguagem Dart e o ecossistema de desenvolvimento mobile.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Recursos Úteis
+
+Aqui estão alguns materiais recomendados para complementar o aprendizado:
+
+- [Lab: Crie seu primeiro app Flutter](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Exemplos úteis em Flutter](https://docs.flutter.dev/cookbook)
+
+## Ajuda e Suporte
+
+Se precisar de ajuda para começar no desenvolvimento com Flutter, acesse a 
+[documentação oficial do Flutter](https://docs.flutter.dev/), que inclui tutoriais, exemplos, orientações sobre desenvolvimento mobile e uma referência completa da API.
